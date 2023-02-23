@@ -20,13 +20,13 @@ elseif ($page_name=='thank-you.php') {echo "$Company";}
 elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
 </title>    
 <link rel="stylesheet" href="css/css_minified.css">
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="img/FaviconR.png">
 
 
 <!-- links css -->
 
 <!-- Place favicon.png in the root directory -->
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/FaviconR.png" type="image/x-icon" />
     <!-- Font Icons css -->
     <link rel="stylesheet" href="css/font-icons.css">
     <!-- plugins css -->

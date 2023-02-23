@@ -23,7 +23,7 @@
                                 <div class="slide-item-info">
                                     <div class="slide-item-info-inner ltn__slide-animation">
                                         <h6 class="slide-sub-title white-color animated">Flower & Gift</h6>
-                                        <h1 class="slide-title text-uppercase white-color animated ">Perfect Bunch <br>For Every Occasion</h1>
+                                        <h1 class="slide-title text-uppercase white-color animated ">Flowers janeth's </h1>
                                     </div>
                                 </div>
                             </div>

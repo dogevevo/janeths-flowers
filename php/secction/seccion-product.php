@@ -170,7 +170,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item text-center">
                         <div class="product-img">
-                            <a href="gallery.php"><img src="img/product/8.JPG" alt="#"></a>
+                            <a href="gallery.php"><img src="img/product/8.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="badge-1">12%</li>

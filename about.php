@@ -1,4 +1,5 @@
 <?php include('php/secction/header.php') ?>
+
     <div class="ltn__utilize-overlay"></div>
 
     <!-- BREADCRUMB AREA START -->
@@ -105,7 +106,7 @@
                 <div class="col-md-12">
                     <div class="ltn__banner-item">
                         <div class="ltn__banner-img">
-                            <a href="contact.php"><img src="img/banner/about1.jpg" alt="Banner Image"></a>
+                            <a href="contact.php"><img src="img/banner/About1.jpg" alt="Banner Image"></a>
                         </div>
                     </div>
                 </div>
