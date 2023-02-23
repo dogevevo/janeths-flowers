@@ -30,7 +30,7 @@
                    
 
                     <div class="col-xl-2 col-md-6 col-sm-6 col-12">
-                        <div class="footer-widget footer-menu-widget clearfix">
+                        <!--div class="footer-widget footer-menu-widget clearfix">
                             <h4 class="footer-title">Customer Service</h4>
                             <div class="footer-menu">
                                 <ul>
@@ -41,7 +41,7 @@
                                     <li><a href="contact.html">Terms and Conditions</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div-->
                     </div>
                     <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-about-widget">
