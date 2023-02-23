@@ -53,10 +53,10 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
     <script type="text/javascript">
         (function() {
             var options = {
-                facebook: "351215899184325", // Facebook page ID
+                facebook: "00201220", // Facebook page ID
                 whatsapp: "<?php echo $PhoneName.$Phone;?>", // WhatsApp number
                 call_to_action: "Message us", // Call to action
-                button_color: "#8b3e0e", // Color of button
+                button_color: "#c7102a", // Color of button
                 position: "left", // Position may be 'right' or 'left'
                 order: "facebook,whatsapp", // Order of buttons
             };

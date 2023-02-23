@@ -21,7 +21,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOConvert= str_replace(str_split(' '), '-', $PhoneConvert);
 	$SEOPhone='+1'.$SEOConvert;
 
-	$Mail='industrias.laspraderas@gmail.com';$MailRef="mailto:".$Mail;
+	$Mail='janethsflowers@gmail.com';$MailRef="mailto:".$Mail;
 	$Services="";
 	$Estimates="Cotizaciones o Adquisiciones al Por Mayor";
 	$Payment="Efectivo, Cheques, Tarjetas de Credito o Debito y Transferencias";

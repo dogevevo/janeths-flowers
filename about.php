@@ -1,5 +1,4 @@
 <?php include('php/secction/header.php') ?>
-<?php include('php/text.php') ?>
     <div class="ltn__utilize-overlay"></div>
 
     <!-- BREADCRUMB AREA START -->
