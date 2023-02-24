@@ -13,7 +13,7 @@
                     <h1 class="ltn__page-title">Gallery</h1>
                     <div class="ltn__breadcrumb-list">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Portfolio</li>
                         </ul>
                     </div>
@@ -27,18 +27,7 @@
 <!-- Gallery area start -->
 <div class="ltn__gallery-area mb-100">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="ltn__gallery-menu ltn__gallery-menu-2">
-                    <div class="ltn__gallery-filter-menu text-uppercase mb-40">
-                        <button data-bs-filter="*" class="active">all</button>
-                        <button data-bs-filter=".filter_category_1">White</button>
-                        <button data-bs-filter=".filter_category_2">Red</button>
-                        <button data-bs-filter=".filter_category_3">Yellow</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
         <!-- Portfolio Wrapper Start -->
         <!-- (ltn__gallery-info-hide) Class for 'ltn__gallery-item-info' not showing -->
         <div class="ltn__gallery-active row ltn__gallery-style-2 ltn__gallery-info-hide---">
@@ -70,9 +59,7 @@
             <p>Vivamus fringilla congue laoreet. Quisque ultrices sodales orci, quis rhoncus justo auctor in. Phasellus dui eros, bibendum eu feugiat ornare, faucibus eu mi. Nunc aliquet tempus sem, id aliquam diam varius ac. Maecenas nisl nunc, molestie vitae eleifend vel.</p>
         </div>
 
-        <div class="btn-wrapper text-center">
-            <a href="#" class="btn btn-transparent btn-effect-3 btn-border">LOAD MORE +</a>
-        </div>
+        
 
         <!-- pagination start -->
         <!-- 

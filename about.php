@@ -11,7 +11,7 @@
                         <h1 class="ltn__page-title">About Us</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li>About Us</li>
                             </ul>
                         </div>
