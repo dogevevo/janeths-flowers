@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Pink Flower Tree</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">Red Rose Bouquet</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -68,7 +68,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">The White Rose</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">bouquet of sunflowers</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Red Rose Bouquet</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">bouquet of yellow daisies</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -112,7 +112,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Heart's Desire</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">cross of white roses</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -132,12 +132,10 @@
                             <div class="product-hover-action product-hover-action-2">
                                 
                             </div>
-                            <div class="ltn__product-countdown">
-                                <div class="ltn__countdown" data-countdown="2021/12/25"></div>
-                            </div>
+                            
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Assorted Roses</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">sunflower and daisy arrangement</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -159,7 +157,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Roses Surprise</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">bouquet of tulips</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -181,7 +179,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Tropical Peace Lily</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">The White Rose</a></h2>
                             <div class="product-price">
                                 
                             </div>

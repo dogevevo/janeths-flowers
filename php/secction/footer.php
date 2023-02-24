@@ -28,26 +28,6 @@
                         </div>
                     </div>
                    
-
-                    <div class="col-xl-2 col-md-6 col-sm-6 col-12">
-<<<<<<< HEAD
-                        <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Social networks</h4>
-=======
-                        <!--div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Customer Service</h4>
->>>>>>> 0236c2472745468588b269115d7b028daf44f2f4
-                            <div class="footer-menu">
-                                <ul>
-                                    <li><a href="product-details.html">Facebook</a></li>
-                                    <li><a href="contact.html"> Instagram </a></li>
-                                    <li><a href="account.html"> twitter </a></li>
-                                    <li><a href="shop.html"> Whatsapp  </a></li>
-                                    
-                                </ul>
-                            </div>
-                        </div-->
-                    </div>
                     <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-about-widget">
                             <h4 class="footer-title">About Our Shop</h4>
