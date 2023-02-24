@@ -16,7 +16,7 @@
                             <a href="gallery.php"><img src="img/product/9.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
-                                    <li class="badge-2">10%</li>
+                                     <li class="badge-1">Hot</li>
                                 </ul>
                             </div>
                             <div class="product-hover-action product-hover-action-2">
@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Pink Flower Tree</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">detail of white roses and chocolates</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Premium Joyful</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">The White Rose</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -60,7 +60,7 @@
                             <a href="gallery.php"><img src="img/product/11.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
-                                    <li class="badge-2">12%</li>
+                                    <li class="badge-1">Hot</li>
                                 </ul>
                             </div>
                             <div class="product-hover-action product-hover-action-2">
@@ -68,7 +68,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">The White Rose</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">Arrangement of lilac roses</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Red Rose Bouquet</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">bouquet of flowers</a></h2>
                             <div class="product-price">
                                 
                             </div>
@@ -112,7 +112,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="gallery.php">Heart's Desire</a></h2>
+                            <h2 class="product-title"><a href="gallery.php">paquet of flowers </a></h2>
                             <div class="product-price">
                                 
                             </div>

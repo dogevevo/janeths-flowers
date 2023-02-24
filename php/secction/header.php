@@ -36,6 +36,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
     <!-- Responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
 
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 
@@ -99,7 +100,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                             <!-- header-feature-item -->
                             <div class="header-feature-item">
                                 <div class="header-feature-icon">
-                                    <i class="icon-phone"></i>
+                                <i class="large material-icons">call</i>   
                                 </div>
                                 <div class="header-feature-info">
                                     <h6>Phone</h6>
@@ -111,7 +112,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                             <!-- header-feature-item -->
                             <div class="header-feature-item">
                                 <div class="header-feature-icon">
-                                    <i class="fa-regular fa-location-dot"></i>
+                                <i class="large material-icons">location_on</i> 
                                 </div>
                                 <div class="header-feature-info">
                                     <h6>direccion</h6>
@@ -122,7 +123,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
 
                             <div class="header-feature-item">
                                 <div class="header-feature-icon">
-                                    <i class="fa-regular fa-location-dot"></i>
+                                <i class="large material-icons">mail</i>
                                 </div>
                                 <div class="header-feature-info">
                                     <h6>Correo</h6>
@@ -137,6 +138,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                                 <form id="#123" method="get"  action="#">
                                     <input type="text" name="search" value="" placeholder="Search here..."/>
                                     <button type="submit">
+                                        <i class='fab fa-500px' style='font-size:28px'></i>
                                         <span><i class="icon-magnifier"></i></span>
                                     </button>
                                 </form>

@@ -5817,7 +5817,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   .ltn__slide-item-2 .slide-title {
     font-size: 72px;
     line-height: 1;
-    margin-bottom: 20px; }
+    margin-bottom: 170px; }
     .ltn__slide-item-2 .slide-title span {
       color: var(--ltn__secondary-color); }
   .ltn__slide-item-2 .btn-wrapper {
@@ -6050,7 +6050,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   .ltn__slide-item-7 .slide-item-info {
     max-width: 850px; }
   .ltn__slide-item-7 .slide-title {
-    font-size: 70px;
+    font-size: 60px;
     line-height: 1; }
 
 /* slide-item-8 */

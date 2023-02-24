@@ -23,7 +23,9 @@
                                 <div class="slide-item-info">
                                     <div class="slide-item-info-inner ltn__slide-animation">
                                         <h6 class="slide-sub-title white-color animated">Flower & Gift</h6>
-                                        <h1 class="slide-title text-uppercase white-color animated ">Flowers janeth's </h1>
+                                        
+                                        <h1 class="slide-title text-uppercase white-color animated ">Flowers janeth's</h1>
+                                        <h3 class="slide-title animated white-color">Flowers Grown in Our Beautiful and Dear Mexico.</h3s>
                                     </div>
                                 </div>
                             </div>
@@ -34,3 +36,7 @@
         </div>
     </div>
     <!-- SLIDER AREA END -->
+
+<!-- 
+    Flores Cultivadas en Nuestro Mèxico Lindo y Querido.  
+    Flowers Grown in Our Beautiful and Dear Mexico. -->
